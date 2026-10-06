@@ -1,4 +1,4 @@
-# Emotion Detector
+# Emotion Detector Project
 
 ## Project Description
 
